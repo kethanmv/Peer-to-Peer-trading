@@ -1,0 +1,32 @@
+.con{
+	width: 72%;
+	background-color: #adad85;
+	margin-left: 220px;
+}
+.con h1{
+	font-family: 'Domine', serif;
+}
+
+.group{
+	display: inline-block;
+	width: 33%;
+	text-align: center;
+}
+
+.bag{
+	margin-left: 140px;
+	background-color: black;
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+	align-self: center;
+}
+
+.bag:hover{
+	background-color: #ffffff;
+}
+
+.heading{
+	text-align: center;
+}
+
